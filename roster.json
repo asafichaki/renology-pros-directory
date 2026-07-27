@@ -1,0 +1,385 @@
+{
+  "brand": "Renology",
+  "publisher": "JOYOAI LLC",
+  "url": "https://www.therenology.com/pros",
+  "model": "advisor-managed matching, not a ranked directory",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "updated": "2026-07-27",
+  "contractor_count": 15,
+  "contractors": [
+    {
+      "name": "My Outdoor Builder",
+      "city": "Los Angeles",
+      "metros": [
+        "los-angeles"
+      ],
+      "metro_labels": [
+        "Los Angeles"
+      ],
+      "specialties": [
+        "Driveway Pavers",
+        "Patio Pavers",
+        "Pool Deck Pavers",
+        "Outdoor Living & Fire Pits",
+        "Hardscape Lighting"
+      ],
+      "license": "CSLB #1035246",
+      "rating": "5.0",
+      "rating_count": 76,
+      "renology_profile": "https://www.therenology.com/pros/my-outdoor-builder",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/los-angeles"
+      ]
+    },
+    {
+      "name": "American Home Improvement",
+      "city": "Woodland Hills",
+      "metros": [
+        "los-angeles"
+      ],
+      "metro_labels": [
+        "Los Angeles"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Room Additions",
+        "ADUs",
+        "Garage Conversions",
+        "Roofing"
+      ],
+      "license": "CSLB #835537",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/american-home-improvement",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/los-angeles"
+      ]
+    },
+    {
+      "name": "Nagar Builders",
+      "city": "Los Angeles",
+      "metros": [
+        "los-angeles"
+      ],
+      "metro_labels": [
+        "Los Angeles"
+      ],
+      "specialties": [
+        "ADUs",
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Room Additions",
+        "Home Construction",
+        "Roofing"
+      ],
+      "license": "CSLB #1069052",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/nagar-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/los-angeles"
+      ]
+    },
+    {
+      "name": "Simple Choice Construction",
+      "city": "Pasadena",
+      "metros": [
+        "los-angeles"
+      ],
+      "metro_labels": [
+        "Los Angeles"
+      ],
+      "specialties": [
+        "Full Home Remodeling",
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "ADU & Garage Conversion",
+        "New Construction",
+        "Home Additions"
+      ],
+      "license": "CSLB #1076567",
+      "rating": "4.8",
+      "rating_count": 307,
+      "renology_profile": "https://www.therenology.com/pros/simple-choice-construction",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/los-angeles"
+      ]
+    },
+    {
+      "name": "Maingreen Remodel & Construction",
+      "city": "Los Angeles",
+      "metros": [
+        "los-angeles"
+      ],
+      "metro_labels": [
+        "Los Angeles"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Roofing",
+        "Solar",
+        "Windows & Doors",
+        "Complete Home Remodel"
+      ],
+      "license": "CSLB #1093329",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/maingreen",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/los-angeles"
+      ]
+    },
+    {
+      "name": "Asher Brothers Construction",
+      "city": "Danville",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Outdoor Living",
+        "Pool Installation",
+        "Deck Construction",
+        "Room Additions & ADUs"
+      ],
+      "license": "CSLB #1108833",
+      "rating": "4.9",
+      "rating_count": 34,
+      "renology_profile": "https://www.therenology.com/pros/asher-brothers",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "Gold Remodeling",
+      "city": "Lafayette",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Whole Home Remodeling",
+        "ADU Construction",
+        "Home Additions",
+        "Design-Build"
+      ],
+      "license": "CSLB #1139879",
+      "rating": "5.0",
+      "rating_count": 35,
+      "renology_profile": "https://www.therenology.com/pros/gold-remodeling",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "Level Up Home Builders",
+      "city": "Mountain View",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "ADUs",
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Room Additions",
+        "Design-Build",
+        "Home Remodeling"
+      ],
+      "license": "CSLB #1034500",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/level-up-home-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "TaLior Construction",
+      "city": "Berkeley",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "ADU & Additions",
+        "Full Home Remodel",
+        "Design-Build",
+        "Seismic Retrofitting"
+      ],
+      "license": "CSLB #1067750",
+      "rating": "5.0",
+      "rating_count": 8,
+      "renology_profile": "https://www.therenology.com/pros/talior-construction",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "Primework Construction",
+      "city": "San Jose",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "Full House Renovation",
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Room Addition",
+        "ADU",
+        "Design & Build"
+      ],
+      "license": "CSLB #1104480",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/primework-construction",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "Hajaj Builders Group",
+      "city": "Palo Alto",
+      "metros": [
+        "bay-area"
+      ],
+      "metro_labels": [
+        "Bay Area"
+      ],
+      "specialties": [
+        "Electrical & Solar",
+        "Plumbing",
+        "HVAC",
+        "Roofing",
+        "General Contracting",
+        "ADU Construction"
+      ],
+      "license": "CSLB #1061699",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/hajaj-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/bay-area"
+      ]
+    },
+    {
+      "name": "Peak Builders & Roofers",
+      "city": "San Diego",
+      "metros": [
+        "san-diego"
+      ],
+      "metro_labels": [
+        "San Diego"
+      ],
+      "specialties": [
+        "Roof Replacement",
+        "Roof Repair",
+        "Tile Roofing",
+        "Metal Roofing",
+        "Storm Damage Restoration",
+        "Commercial Roofing"
+      ],
+      "license": "CSLB #1008986",
+      "rating": "4.9",
+      "rating_count": 140,
+      "renology_profile": "https://www.therenology.com/pros/peak-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/san-diego"
+      ]
+    },
+    {
+      "name": "Skyline Builders WA",
+      "city": "Bellevue",
+      "metros": [
+        "seattle"
+      ],
+      "metro_labels": [
+        "Seattle"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Basement Remodeling",
+        "Decks & Fences",
+        "Driveway Renovation",
+        "Painting"
+      ],
+      "license": "WA #SKYLIBW767CL",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/skyline-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/seattle"
+      ]
+    },
+    {
+      "name": "North Vision Builders",
+      "city": "Bellevue",
+      "metros": [
+        "seattle"
+      ],
+      "metro_labels": [
+        "Seattle"
+      ],
+      "specialties": [
+        "Kitchen Remodeling",
+        "Bathroom Remodeling",
+        "Full Home Renovations",
+        "ADU Construction",
+        "Deck Installation",
+        "Siding & Painting"
+      ],
+      "license": "WA #NORTHVB752BF",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/north-vision-builders",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/seattle"
+      ]
+    },
+    {
+      "name": "Peak Builders",
+      "city": "Aurora",
+      "metros": [
+        "denver"
+      ],
+      "metro_labels": [
+        "Denver"
+      ],
+      "specialties": [
+        "Custom Home Building",
+        "Home Remodeling",
+        "Bathroom Remodeling",
+        "Kitchen Remodeling",
+        "Home Additions",
+        "Hardwood Flooring"
+      ],
+      "license": "Denver GC #LIC00254007",
+      "rating": null,
+      "rating_count": null,
+      "renology_profile": "https://www.therenology.com/pros/peak-builders-denver",
+      "renology_metro_page": [
+        "https://www.therenology.com/pros/in/denver"
+      ]
+    }
+  ]
+}
