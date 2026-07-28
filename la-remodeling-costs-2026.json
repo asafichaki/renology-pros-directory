@@ -1,0 +1,81 @@
+{
+  "title": "Los Angeles Remodeling Costs and Rules, 2026",
+  "publisher": "Renology (JOYOAI LLC)",
+  "url": "https://www.therenology.com/pros/in/los-angeles",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "as_of": "2026-07-28",
+  "notes": "Figures are national Cost vs Value benchmarks plus California/LA rules, used on Renology's LA contractor pages. Verify against the linked primary sources.",
+  "records": [
+    {
+      "metric": "Minor kitchen remodel, average cost",
+      "value": 28458,
+      "unit": "USD",
+      "recoup_pct": 112.9,
+      "source": "Zonda 2025 Cost vs. Value Report",
+      "source_url": "https://zondahome.com/2025-cost-vs-value-report/"
+    },
+    {
+      "metric": "Midrange bathroom remodel, average cost",
+      "value": 26138,
+      "unit": "USD",
+      "recoup_pct": 80,
+      "recoup_pct_pacific": 91,
+      "source": "Zonda 2025 Cost vs. Value Report",
+      "source_url": "https://zondahome.com/2025-cost-vs-value-report/"
+    },
+    {
+      "metric": "Wood deck addition, average cost",
+      "value": 18263,
+      "unit": "USD",
+      "recoup_pct": 94.9,
+      "source": "Zonda 2025 Cost vs. Value Report",
+      "source_url": "https://zondahome.com/2025-cost-vs-value-report/"
+    },
+    {
+      "metric": "Composite deck addition, average cost",
+      "value": 25096,
+      "unit": "USD",
+      "recoup_pct": 88.5,
+      "source": "Zonda 2025 Cost vs. Value Report",
+      "source_url": "https://zondahome.com/2025-cost-vs-value-report/"
+    },
+    {
+      "metric": "Asphalt shingle roof replacement, typical range",
+      "value_low": 5900,
+      "value_high": 13000,
+      "value_avg": 9500,
+      "unit": "USD",
+      "source": "HomeAdvisor Roof Replacement Cost",
+      "source_url": "https://www.homeadvisor.com/cost/roofing/install-a-roof/"
+    },
+    {
+      "metric": "US home improvement and repair spend, annualized through early 2026",
+      "value": 526000000000,
+      "unit": "USD",
+      "source": "Harvard JCHS Leading Indicator of Remodeling Activity (LIRA)",
+      "source_url": "https://www.jchs.harvard.edu/research-areas/remodeling/lira"
+    },
+    {
+      "metric": "California contractor license required above",
+      "value": 1000,
+      "unit": "USD",
+      "rule": "AB 2622, effective Jan 1 2025, first increase since 1987",
+      "source": "California CSLB",
+      "source_url": "https://www.cslb.ca.gov/Resources/PressReleases/2024/AB2622.FINAL.pdf"
+    },
+    {
+      "metric": "ADU ministerial approval deadline",
+      "value": 60,
+      "unit": "days",
+      "rule": "deemed approved if the city misses the deadline",
+      "source": "California HCD ADU Handbook",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/adu-handbook-update.pdf"
+    },
+    {
+      "metric": "ADU by-right size / setback / height minimums",
+      "value": "800 sqft, 4 ft setbacks, 16 ft height",
+      "source": "California HCD ADU Handbook",
+      "source_url": "https://www.hcd.ca.gov/sites/default/files/docs/policy-and-research/adu-handbook-update.pdf"
+    }
+  ]
+}
