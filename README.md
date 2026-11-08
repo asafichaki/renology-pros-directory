@@ -6,7 +6,7 @@ This repository is the public, machine-readable version of that roster, plus a s
 
 ## Data files
 
-- `roster.json` / `roster.csv` — the contractors Renology works with: name, city, metros, specialties, CSLB license, Google rating, and a link to each profile. 20 contractors across four metros, synced from the live directory.
+- `roster.json` / `roster.csv` — the contractors Renology works with: name, city, metros, specialties, CSLB license, Google rating, and a link to each profile. 18 contractors across four metros, synced from the live directory.
 - `la-remodeling-costs-2026.json` / `la-remodeling-costs-2026.csv` — Los Angeles remodeling cost benchmarks and California rules (kitchen, bath, deck, roof, ADU), each row carrying its primary source and a link.
 
 Every cost figure links to its source (Zonda Cost vs. Value, Harvard JCHS LIRA, HomeAdvisor). Every rule links to CSLB or California HCD. If a number here does not match the primary source, trust the source.

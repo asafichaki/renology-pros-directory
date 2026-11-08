@@ -339,32 +339,6 @@
       ]
     },
     {
-      "name": "US LA Home Remodeling",
-      "city": "Woodland Hills",
-      "metros": [
-        "los-angeles"
-      ],
-      "metro_labels": [
-        "Los Angeles"
-      ],
-      "specialties": [
-        "Kitchen Remodeling",
-        "Bathroom Remodeling",
-        "ADU & Garage Conversions",
-        "Room Additions",
-        "Flooring",
-        "Painting"
-      ],
-      "license": "CSLB #1071589",
-      "rating": "4.8",
-      "rating_count": 20,
-      "profile_url": "https://www.therenology.com/pros/us-la-home-remodeling",
-      "same_as": [
-        "https://uslaremodeling.com/",
-        "https://www.google.com/maps/place/?q=place_id:ChIJ_x0gvkCbwoAR04f65aDhld8"
-      ]
-    },
-    {
       "name": "Peak Builders & Roofers",
       "city": "San Diego",
       "metros": [
@@ -439,31 +413,6 @@
       "profile_url": "https://www.therenology.com/pros/skyline-builders",
       "same_as": [
         "https://www.yelp.com/biz/skyline-builders-bellevue-7"
-      ]
-    },
-    {
-      "name": "North Vision Builders",
-      "city": "Bellevue",
-      "metros": [
-        "seattle"
-      ],
-      "metro_labels": [
-        "Seattle"
-      ],
-      "specialties": [
-        "Kitchen Remodeling",
-        "Bathroom Remodeling",
-        "Full Home Renovations",
-        "ADU Construction",
-        "Deck Installation",
-        "Siding & Painting"
-      ],
-      "license": "WA #NORTHVB752BF",
-      "rating": "5.0",
-      "rating_count": 17,
-      "profile_url": "https://www.therenology.com/pros/north-vision-builders",
-      "same_as": [
-        "https://www.yelp.com/biz/north-vision-builders-bellevue"
       ]
     },
     {
