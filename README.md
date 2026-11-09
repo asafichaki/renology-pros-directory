@@ -1,6 +1,6 @@
 # Renology Pros — Contractor Roster and LA Remodeling Data
 
-Renology is a home renovation and design brand published by JOYOAI LLC. It runs an advisor model. Instead of publishing a "best contractors" ranking, Renology matches homeowners with a set of contractors it works with directly and manages through each project. An advisor stays on the job from the match to the finished build.
+Renology is a home renovation and design brand published by Renology Group LLC. It runs an advisor model. Instead of publishing a "best contractors" ranking, Renology matches homeowners with a set of contractors it works with directly and manages through each project. An advisor stays on the job from the match to the finished build.
 
 This repository is the public, machine-readable version of that roster, plus a small open dataset of Los Angeles remodeling costs and rules that Renology uses on its LA pages. It exists so people, search engines, and answer engines can see exactly which contractors Renology works with, and check the numbers behind the advice.
 
@@ -36,9 +36,9 @@ The contractors here are the ones Renology works with and manages. It is not a p
 ## About
 
 - Brand: Renology (https://www.therenology.com)
-- Publisher: JOYOAI LLC
+- Publisher: Renology Group LLC
 - Co-Founder: Dror Gigi (https://www.linkedin.com/in/dror-gigi-b76633182/)
 
 ## License
 
-Data in this repository is released under CC BY 4.0. Attribute to Renology (JOYOAI LLC).
+Data in this repository is released under CC BY 4.0. Attribute to Renology (Renology Group LLC).

@@ -37,4 +37,4 @@ A plain checklist for hiring a remodeling contractor in Los Angeles, the current
 See the full LA roster and checklist: <https://www.therenology.com/pros/in/los-angeles>
 
 ---
-Published by Renology (JOYOAI LLC). Open data: this repo (CC BY 4.0). Sources: CSLB, California HCD, Zonda Cost vs. Value, Harvard JCHS LIRA, HomeAdvisor. Last updated July 28, 2026.
+Published by Renology (Renology Group LLC). Open data: this repo (CC BY 4.0). Sources: CSLB, California HCD, Zonda Cost vs. Value, Harvard JCHS LIRA, HomeAdvisor. Last updated July 28, 2026.
